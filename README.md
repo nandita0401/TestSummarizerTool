@@ -66,7 +66,6 @@ If desired, users can then download the summary as a PDF document.
 **Expected Outcome:**
 The Test Summarizer Tool will help users save time by condensing long pieces of text into concise, readable summaries. With the ability to process both manually input text and uploaded PDF files, this tool will be a versatile addition for students, professionals, and anyone dealing with lengthy documents. The download feature will make it even more practical for users who want to store and share the summaries.
 
-This project showcases Python skills in natural language processing, web app development, and PDF handling, making it a great portfolio project for an MSIS student.
 
 
 
